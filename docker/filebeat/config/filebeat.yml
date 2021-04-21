@@ -1,0 +1,21 @@
+filebeat.inputs:
+  - type: log
+    enabled: true
+    paths:
+      - /usr/share/filebeat/logs/app-info.log
+setup.template.name: "filebeat-"
+setup.template.pattern: "filebeat-*"
+setup:
+  dashboards:
+    index: "filebeat-*"
+setup.dashboards.enabled: true
+
+xpack.monitoring:
+  enabled: true
+
+output.logstash:
+  hosts: ["logstash:5000"]
+  ssl.enabled: true
+
+output.console:
+  pretty: true

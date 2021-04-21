@@ -1,0 +1,31 @@
+
+V
+java:S1481ƒ"3Remove this unused "updateResponse" local variable.(½Üöİúÿÿÿÿ8ßâŞĞ/
+T
+java:S1135,"2Complete the task associated to this TODO comment.(ôïÛ–øÿÿÿÿ8­ÕıĞ/
+S
+java:S1481z"1Remove this unused "bulkResponse" local variable.(ŞŠ ıÿÿÿÿ8°»›Ù/
+i
+java:S1192:"GDefine a constant instead of duplicating this literal "events" 7 times.(¾™üûÿÿÿÿ8­ÕıĞ/
+b
+java:S1854z"@Remove this useless assignment to local variable "bulkResponse".(ŞŠ ıÿÿÿÿ8œàÛØ/
+L
+java:S1481?"/Remove this unused "eventAsMap" local variable.(ÍÇçÙ8­ÕıĞ/
+T
+java:S1135-"2Complete the task associated to this TODO comment.(£¡¿Óşÿÿÿÿ8 ¢óş/
+]	java:S125I"<This block of commented-out lines of code should be removed.(ÍÓ“şÿÿÿÿ8¶¡äş/
+[
+java:S1854?">Remove this useless assignment to local variable "eventAsMap".(ÍÇçÙ8­ÕıĞ/
+_
+java:S1854s"BRemove this useless assignment to local variable "deleteResponse".(…ÏÿŸ8ßâŞĞ/
+O
+java:S1135+"2Complete the task associated to this TODO comment.(»ÔË¹8­ÕıĞ/
+[
+java:S1854€"=Remove this useless assignment to local variable "eventJson".(´“ĞÄ8ßâŞĞ/
+P
+java:S1481s"3Remove this unused "deleteResponse" local variable.(…ÏÿŸ8ßâŞĞ/
+L
+java:S1481€".Remove this unused "eventJson" local variable.(´“ĞÄ8ßâŞĞ/
+]	java:S125Q"<This block of commented-out lines of code should be removed.(óôäµüÿÿÿÿ8Œ‡ÿ/
+e
+java:S1854ƒ"BRemove this useless assignment to local variable "updateResponse".(½Üöİúÿÿÿÿ8’ÙÛĞ/
